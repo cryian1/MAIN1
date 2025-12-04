@@ -8,6 +8,7 @@ void main()
 	SetConsoleOutputCP(1251);
 
 	printf("Винковский\n");
+	printf("Винковский\n");
 	printf("Максим\n");
 	printf("Максим\n");
 	printf("Сергеевич\n");
