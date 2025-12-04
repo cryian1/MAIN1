@@ -17,6 +17,7 @@ void main()
 	printf("Сергеевич\n");
 	printf("\n");
 	printf("Группа: ИСЭбд-11-2025\n");
+	printf("Группа: ИСЭбд-11-2025\n");
 	printf("\n");
 	printf("Дата: 03.09.\n");
 	printf("Дата: 03.09.\n");
