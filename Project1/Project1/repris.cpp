@@ -11,6 +11,7 @@ void main()
 	printf("Винковский\n");
 	printf("Максим\n");
 	printf("Максим\n");
+	printf("Максим\n");
 	printf("Сергеевич\n");
 	printf("Сергеевич\n");
 	printf("\n");
